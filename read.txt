@@ -1,0 +1,2 @@
+   url=`https://api.unsplash.com/search/photos?page=${page}&query=${inputData}&client_id=${accessKey}`
+   accessKey="Kr_YJlxyMabjuT6q1JWCOnaQy3d6D0mUYS1vtDEdYA0"
